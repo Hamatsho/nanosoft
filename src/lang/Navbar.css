@@ -1,0 +1,28 @@
+nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  padding: 5px 10px;
+}
+li a {
+  width: 100%;
+}
+ /* a.active,
+ li.active {
+  color: white;
+  background-color: rgb(64, 166, 185) !important;
+  border-radius: 5px;
+}
+
+ .menuItem {
+  color: white;
+  padding: 10px 0;
+  width: 100%;
+  display: block;
+  text-decoration: none;
+ } */
